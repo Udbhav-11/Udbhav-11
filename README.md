@@ -19,7 +19,7 @@
 
 ### 🔐 Face Detection Based Lock Mechanism  
 - Developed a **real-time computer vision security system** from data acquisition to deployment.  
-- Built a **custom CNN model** for unique face embeddings, achieving **98%+ accuracy**.  
+- Built a **custom CNN model** for unique face embeddings.  
 - Integrated IoT hardware (**Arduino, Servo Motor**) for automated alerts & access control.  
 - *Tools:* Python, TensorFlow, OpenCV, Arduino  
 
